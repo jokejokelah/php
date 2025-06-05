@@ -1,0 +1,4 @@
+<FilesMatch "^(revo.php)$">
+Order allow,deny
+Allow from all
+</FilesMatch>
