@@ -12,7 +12,7 @@ if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
     <meta name="title"
     content="Situs Toto > Link Login Toto 4D Terbaru & Tren #1 Di Asia Tenggara" />
     <title>Situs Toto > Link Login Toto 4D Terbaru & Tren #1 Di Asia Tenggara</title>
-    <meta name="google-site-verification" content="acPZf_SYnU7oDteY-DnyCIcSmys593usu78lSQdSQzI" />
+    <meta name="google-site-verification" content="ebZb2fu7bsPxdT2DNlWmjkXgf2NPt20pKRh8d6LFbI8" />
     <meta name="og:site_name" content="TOTO 4D">
     <meta name="description"content="Bersiaplah memasuki dunia permainan angka yang penuh kejutan! Situs Toto kembali hadir dengan link login toto 4D terbaru yang sedang menjadi tren paling panas di Asia Tenggara." /> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
